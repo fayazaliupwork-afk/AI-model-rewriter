@@ -1,0 +1,5 @@
+{
+  "name": "ArchOptimizer AI",
+  "description": "An autonomous architectural rewriter that analyzes tech ecosystems, detects inefficiencies, and prepares systems for AI workflows through proactive refactoring and optimization.",
+  "requestFramePermissions": []
+}
